@@ -1,0 +1,1 @@
+This is a class.txt file and it should be replaced by other content which is guided through the certification course.
